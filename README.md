@@ -1,2 +1,2 @@
-# blog-comments
-Giscus comment repository for wakefulcloud.dev
+# Blog Comments
+Giscus comment repository for [wakefulcloud.dev](https://wakefulcloud.dev).
